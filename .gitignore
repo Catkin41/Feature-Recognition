@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+dataset/images_pre/
+features/
+test_orb_kp.jpg
+test_block.jpg
+.env
+.vscode/
